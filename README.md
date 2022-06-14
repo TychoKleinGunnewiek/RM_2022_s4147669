@@ -24,5 +24,3 @@ sh nedersaksisch_freq.sh
 and 
 sh non_nedersaksisch_freq.sh
 that should give all the data necesarry.
-
-in case the first step has not worked or takes to long the 2020_01_place_text.txt can be downloaded directly from repositroy
